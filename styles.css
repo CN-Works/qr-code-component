@@ -18,7 +18,8 @@ body {
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
-    margin-top: 10%;
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
     margin-left: 40%;
     margin-right: 40%;
     border-radius: 4%;
