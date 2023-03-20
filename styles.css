@@ -10,7 +10,8 @@
 /* Structure */
 
 body {
-    background-color: hsl(220, 15%, 55%);
+    /* Changed the color because it's not the exact same as in preview */
+    background-color: hsl(218, 50%, 80%);
 }
 
 .mainBlock {
@@ -36,16 +37,21 @@ body {
 /* Main Text */
 
 #mainText {
-    margin-top: 4%;
+    margin-top: 7%;
     text-align: center;
     padding-left: 10%;
     padding-right: 10%;
+    font-size: 1.6em;
+    font-weight : bold;
 }
 
 /* Second Text */
 
 #secondText {
-    margin-top: 3%;
+    /* Changed the color because it's not really visible*/
+    color: hsl(0, 0%, 52%);
+    font-size: 1.15em;
+    margin-top: 5%;
     text-align: center;
     padding-left: 12%;
     padding-right: 12%;
