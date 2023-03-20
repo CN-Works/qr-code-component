@@ -14,7 +14,6 @@
 body {
     /* Changed the color because it's not the exact same as in preview */
     background-color: hsl(218, 50%, 80%);
-    overflow: hidden;
 }
 
 .mainBlock {
