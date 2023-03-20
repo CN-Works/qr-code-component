@@ -62,3 +62,20 @@ body {
     padding-right: 12%;
     margin-bottom: 10%;
 }
+
+/* Mobile Part */
+@media only screen and (max-width: 800px) {
+
+    body {
+        overflow: auto;
+    }
+
+    .mainBlock {
+        width: 90%;
+        height: 90%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
