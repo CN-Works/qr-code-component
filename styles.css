@@ -9,7 +9,7 @@
 
 /* Structure */
 
-.container {
+body {
     background-color: hsl(220, 15%, 55%);
 }
 
@@ -17,6 +17,7 @@
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
+    margin-top: 10%;
     margin-left: 40%;
     margin-right: 40%;
 }
@@ -24,12 +25,24 @@
 /* Image */
 
 #qrcode {
-    width: 70%;
-    padding-left: 15%;
-    padding-right: 15%;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
     border-radius: 3.5%;
 }
 
 /* Main Text */
 
+#mainText {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 /* Second Text */
+
+#secondText {
+    text-align: center;
+    padding-left: 12%;
+    padding-right: 12%;
+}
