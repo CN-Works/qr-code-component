@@ -30,13 +30,13 @@ body {
     margin-top: 5%;
     padding-left: 5%;
     padding-right: 5%;
-    border-radius: 5%;
+    border-radius: 7.5%;
 }
 
 /* Main Text */
 
 #mainText {
-    margin-top: 5%;
+    margin-top: 4%;
     text-align: center;
     padding-left: 10%;
     padding-right: 10%;
