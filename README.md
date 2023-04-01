@@ -4,7 +4,7 @@
 
 **Making the "QR Code Component" challenge from FrontEndMentor.**
 
-<div align='left'><a href="https://chernyyworks.github.io/qr-code-component/">Live Preview</a>
+<div align='left'><a href="https://cn-works.github.io/qr-code-component/">Live Preview</a>
 </div>
 
 ## Desktop Preview :
